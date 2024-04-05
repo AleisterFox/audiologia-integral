@@ -1,37 +1,41 @@
 <footer>
   <div class="top">
-    <div class="first">
-      <figure><img src="img/logo.png" alt=""></figure>
-      <div class="socials">
-        <a href="" target="_blank"><i class="fab fa-instagram"></i></a>
-        <a href="" target="_blank"><i class="fab fa-facebook"></i></a>
-        <a href="" target="_blank"><img src="img/doctoralia.png" alt=""></a>
-        <a href="" target="_blank"><img src="img/dr-icon.png" alt=""></a>
-      </div>
-    </div>
-    <div class="second">
-      <a href="us.php">Acerca de</a>
-    </div>
-    <div class="third">
-      <a href="index.php#services">Servicios</a>
-      <a href="plastica.php">cirugía plástica</a>
-      <a href="reconstructiva.php">cirugía reconstructiva</a>
-      <a href="no-quirurgicos.php">tratamientos
-        no quirúrgicos</a>
-    </div>
-    <div class="fourth">
-      <a href="contact.php">Contacto</a>
-      <p>Unidad de Cirugía Ambulatoria OPERARTE de Pachuca, Calle Chihuahua 116 Colonia Cubitos, Pachuca, Hidalgo CP. 42090</p>
-      <p>Hospital Intermedica, Boulevard Luis Donaldo Colosio 212 Torre D consultorio 17 Pachuca, Hidalgo.</p>
-      <p>Torre medica de especialidades Tepic, Calle Tepic 113 consultorio 120 planta Baja colonia Roma Delegación Cuauhtémoc CDMX</p>
-    </div>
-    <div class="fifth">
-      <a href="faqs.php">faqs</a>
+    <ul>
+      <li><a href="index.php#us">Nosotros</a></li>
+      <li><a href="index.php#auxiliares">Productos</a>
+        <ul>
+          <li><a href="bte.php">Audífonos BTE</a></li>
+          <li><a href="ric.php">Audífonos RIC</a></li>
+          <li><a href="cic.php">Audífonos CIC</a></li>
+        </ul>
+      </li>
+      <li><a href="index.php#services">Servicios</a>
+        <ul>
+          <li>Estudios audiológicos</li>
+          <li>Programación de auxiliares auditivos</li>
+          <li>Laboratorio de moldes auditivos </li>
+        </ul>
+      </li>
+      <li><a href="contacto.php" class="links">Contacto</a>
+        <div class="links">
+          <a href="tel: 563 419 86 15" target="_blank"><i class="fas fa-phone"></i> 563 419 86 15</a>
+          <a href="mailto: citas.drarguelles@gmail.com" target="_blank"><i class="fas fa-envelope"></i>citas.drarguelles@gmail.com</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="middle">
+    <div class="socials">
+      <a href="" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="" target="_blank"><i class="fab fa-instagram"></i></a>
     </div>
   </div>
   <div class="bottom">
-    <p>2023 &copy; TODOS LOS DERECHOS RESERVADOS <img src="img/Icono_molcajete.png" alt=""> </p>
-    <a href="" target="_blank">Aviso de privacidad</a>
-    <a href="" target="_blank">Términos y condiciones</a>
+    <p>
+      2024 &copy; Todos los derechos reservados
+      <img src="img/molca.png" alt="" />
+    </p>
+    <a href="">Aviso de privacidad</a>
+    <a href="">Términos y condiciones</a>
   </div>
 </footer>

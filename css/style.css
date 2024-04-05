@@ -115,6 +115,31 @@ img {
     background-color: var(--secondary-color);
 }
 
+.whatsapp {
+    background-color: #25D366;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 100rem;
+    border: 1px solid black;
+    position: fixed;
+    right: 2rem;
+    z-index: 10001;
+    bottom: 5rem;
+}
+
+.whatsapp a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.whatsapp i {
+    font-size: 3rem;
+    color: white;
+}
+
 header {
     height: 15vh;
     width: 100%;
@@ -666,13 +691,20 @@ h2 {
     border-radius: 100rem;
     left: 2rem;
     bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #product .info figure img {
     mix-blend-mode: multiply;
-    position: relative;
+    position: absolute;
     z-index: 1;
-    border-radius: 100rem;
+    /* border-radius: 100rem; */
+    object-fit: contain;
+    width: 70%;
+    left: 50%;
+    transform: translate(-50%);
 }
 
 #product .gallery {

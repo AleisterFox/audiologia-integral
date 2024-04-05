@@ -25,7 +25,11 @@
 
 <body>
 
-  <!-- <div class="loader__screen" id="loader">
+  <div class="whatsapp">
+    <a href="https://wa.link/f2spvi" target="_blank"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <div class="loader__screen" id="loader">
     <div id="wifi-loader">
       <svg class="circle-outer" viewBox="0 0 86 86">
         <circle class="back" cx="43" cy="43" r="40"></circle>
@@ -42,31 +46,10 @@
       </svg>
       <div class="text" data-text="Loading..."></div>
     </div>
-  </div> -->
+  </div>
 
 
-  <header>
-    <nav>
-      <a href="index.html">
-        <picture>
-          <source media="(max-width: 768px)" srcset="img/logo.png" />
-          <img src="img/logo.png" alt="" />
-        </picture>
-      </a>
-
-      <ul class="menu">
-        <li><a href="#us">Nosotros</a></li>
-        <li><a href="#auxiliares">Auxiliares Auditivos</a></li>
-        <li><a href="#services">Servicios</a></li>
-        <li><a href="contacto.html">Contacto</a></li>
-        <li>
-          <a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-          <a href="" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-        </li>
-      </ul>
-      <a><i class="fa-solid fa-bars menu__button"></i></a>
-    </nav>
-  </header>
+  <?php include 'elements/header.php' ?>
   <main>
     <section id="hero">
       <h1 class="fadeInLeft wow">Oír bien <br>
@@ -86,21 +69,21 @@
     <section id="auxiliares">
       <h2>Lo mejor en Auxiliares Auditivos</h2>
       <div class="container">
-        <a href="">
+        <a href="bte.php">
           <div class="auxiliar">
             <figure><img src="img/bte.png" alt=""></figure>
             <p>Audífono BTE 
               (Behind the hear)</p>
           </div>
         </a>
-        <a href="">
+        <a href="ric.php">
           <div class="auxiliar">
             <figure><img src="img/ric.png" alt=""></figure>
             <p>Audífono RIC 
               (Receiver in canal)</p>
           </div>
         </a>
-        <a href="">
+        <a href="cic.php">
           <div class="auxiliar">
             <figure><img src="img/cic.png" alt=""></figure>
             <p>Audífono CIC 
@@ -174,7 +157,7 @@
     <div class="revision">
       <h2>Solicita una revisión </h2>
       <p>Reserva cita con un profesional de Audiología Integral para resolver todas tus dudas sobre tu salud auditiva.</p>
-      <a href="" class="button">Contáctanos</a>
+      <a href="contacto.php" class="button">Contáctanos</a>
     </div>
 
     <section id="location">
@@ -200,47 +183,7 @@
 
   </main>
 
-  <footer>
-    <div class="top">
-      <ul>
-        <li><a href="#us">Nosotros</a></li>
-        <li><a href="#auxiliares">Productos</a>
-          <ul>
-            <li><a href="">Audífonos BTE</a></li>
-            <li><a href="">Audífonos RIC</a></li>
-            <li><a href="">Audífonos CIC</a></li>
-          </ul>
-        </li>
-        <li><a href="#services">Servicios</a>
-          <ul>
-            <li>Estudios audiológicos</li>
-            <li>Programación de auxiliares auditivos</li>
-            <li>Laboratorio de moldes auditivos </li>
-          </ul>
-        </li>
-        <li><a href="contacto.html" class="links">Contacto</a>
-          <div class="links">
-            <a href="tel: 563 419 86 15" target="_blank"><i class="fas fa-phone"></i> 563 419 86 15</a>
-            <a href="mailto: citas.drarguelles@gmail.com" target="_blank"><i class="fas fa-envelope"></i>citas.drarguelles@gmail.com</a>
-          </div>
-        </li>
-      </ul>
-    </div>
-    <div class="middle">
-      <div class="socials">
-        <a href="" target="_blank"><i class="fab fa-facebook"></i></a>
-        <a href="" target="_blank"><i class="fab fa-instagram"></i></a>
-      </div>
-    </div>
-    <div class="bottom">
-      <p>
-        2024 &copy; Todos los derechos reservados
-        <img src="img/molca.png" alt="" />
-      </p>
-      <a href="">Aviso de privacidad</a>
-      <a href="">Términos y condiciones</a>
-    </div>
-  </footer>
+  <?php include 'elements/footer.php' ?>
 </body>
 <script src="js/script.js"></script>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>

@@ -8,11 +8,14 @@
     </a>
 
     <ul class="menu">
-      <li><a class="active" href="index.php">Inicio</a></li>
-      <li><a href="us.php">Acerca de</a></li>
+      <li><a href="index.php#us">Nosotros</a></li>
+      <li><a href="index.php#auxiliares">Auxiliares Auditivos</a></li>
       <li><a href="index.php#services">Servicios</a></li>
-      <li><a href="contact.php">Contacto</a></li>
-      <li><a href="faqs.php" target="">Faq</a></li>
+      <li><a href="contacto.php">Contacto</a></li>
+      <li>
+        <a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+        <a href="" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+      </li>
     </ul>
     <a><i class="fa-solid fa-bars menu__button"></i></a>
   </nav>
