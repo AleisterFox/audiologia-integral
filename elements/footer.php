@@ -18,8 +18,8 @@
       </li>
       <li><a href="contacto.php" class="links">Contacto</a>
         <div class="links">
-          <a href="tel: 563 419 86 15" target="_blank"><i class="fas fa-phone"></i> 563 419 86 15</a>
-          <a href="mailto: citas.drarguelles@gmail.com" target="_blank"><i class="fas fa-envelope"></i>citas.drarguelles@gmail.com</a>
+          <a href="tel: 563 419 86 15" target="_blank"><i class="fas fa-phone"></i> 753 5377825</a>
+          <a href="mailto: apoyosauditivos@gmail.com" target="_blank"><i class="fas fa-envelope"></i>apoyosauditivos@gmail.com</a>
         </div>
       </li>
     </ul>

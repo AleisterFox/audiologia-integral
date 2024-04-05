@@ -274,8 +274,14 @@ h2 {
     background-size: cover;
     min-height: 100vh;
     padding: var(--padding);
-    padding-top: 35vh;
+    padding-top: 20vh;
     color: white;
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    justify-content: center;
+
 }
 
 #hero h1 {
@@ -286,7 +292,6 @@ h2 {
 
 #hero p {
     font-size: 2.5rem;
-    margin: 4rem 0;
     width: 80rem;
     max-width: 100%;
     font-weight: 300;
