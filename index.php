@@ -63,7 +63,8 @@
     <div class="banner">
       <h2>La experiencia lo es todo</h2>
       <h3>En <span>Audiología Integral LZC</span> contamos con la mejor tecnología en Auxiliares Auditivos considerando siempre la perdida auditiva, estilo de vida y presupuesto, todo para que disfrute
-        <span>Escuchar nuevamente a su familia.</span> </h3>
+        <span>Escuchar nuevamente a su familia.</span>
+      </h3>
     </div>
 
     <section id="auxiliares">
@@ -72,24 +73,27 @@
         <a href="bte.php">
           <div class="auxiliar">
             <figure><img src="img/bte.png" alt=""></figure>
-            <p>Audífono BTE 
+            <p>Audífono BTE
               (Behind the hear)</p>
           </div>
         </a>
         <a href="ric.php">
           <div class="auxiliar">
             <figure><img src="img/ric.png" alt=""></figure>
-            <p>Audífono RIC 
+            <p>Audífono RIC
               (Receiver in canal)</p>
           </div>
         </a>
         <a href="cic.php">
           <div class="auxiliar">
             <figure><img src="img/cic.png" alt=""></figure>
-            <p>Audífono CIC 
+            <p>Audífono CIC
               (Completly in Canal)</p>
           </div>
         </a>
+      </div>
+      <div class="fade">
+      <div class="fade-blue"></div>
       </div>
     </section>
 
@@ -110,28 +114,36 @@
     <section id="services">
       <h2>Mejorando vidas a través <br>
         de soluciones auditivas avanzadas</h2>
-        <div class="container">
-          <div class="service">
-            <figure><img src="img/audiologicos.png" alt=""></figure>
-            <h4>Estudios audiológicos</h4>
-            <p>Audiometría, Timpanometria y Logoaudiometría. En consultorio practicamos los estudios específicos en ambiente libre de ruido que nos permite conocer el nivel de escucha de los pacientes y medir las condiciones del oído medio.</p>
-          </div>
-          <div class="service">
-            <figure><img src="img/auxiliares.png" alt=""></figure>
-            <h4>Programación de 
-              auxiliares auditivos</h4>
-            <p>En consultorio hacemos las modificaciones electroacústicas necesarias en un auxiliar auditivo para que se adapte a las necesidades de audición específicas de cada persona.</p>
-          </div>
-          <div class="service">
-            <figure><img src="img/moldes.png" alt=""></figure>
-            <h4>Laboratorio 
-              de moldes auditivos</h4>
-            <p>Tenemos laboratorio para para la fabricación de moldes a la medida de cada persona y de todos los materiales.</p>
-          </div>
+      <div class="dots">
+        <figure><img src="img/dots.png" alt=""></figure>
+      </div>
+      <div class="container">
+        <div class="service">
+          <figure><img src="img/audiologicos.png" alt=""></figure>
+          <h4>Estudios audiológicos</h4>
+          <p>Audiometría, Timpanometria y Logoaudiometría. En consultorio practicamos los estudios específicos en ambiente libre de ruido que nos permite conocer el nivel de escucha de los pacientes y medir las condiciones del oído medio.</p>
         </div>
+        <div class="service">
+          <figure><img src="img/auxiliares.png" alt=""></figure>
+          <h4>Programación de
+            auxiliares auditivos</h4>
+          <p>En consultorio hacemos las modificaciones electroacústicas necesarias en un auxiliar auditivo para que se adapte a las necesidades de audición específicas de cada persona.</p>
+        </div>
+        <div class="service">
+          <figure><img src="img/moldes.png" alt=""></figure>
+          <h4>Laboratorio
+            de moldes auditivos</h4>
+          <p>Tenemos laboratorio para para la fabricación de moldes a la medida de cada persona y de todos los materiales.</p>
+        </div>
+      </div>
     </section>
 
     <section id="us">
+
+      <div class="dots">
+        <figure><img src="img/dots.png" alt=""></figure>
+      </div>
+
       <div class="container">
         <div class="left">
           <h2>Acerca de nosotros</h2>

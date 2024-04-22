@@ -174,6 +174,7 @@ header nav .menu__button {
 header figure, header picture {
     display: block;
     height: 12vh;
+    min-width: 10rem;
 }
 
 header .menu {
@@ -245,6 +246,10 @@ header .menu {
     color: var(--main-color);
 }
 
+.menu li:last-child>a:hover::after {
+    display: none;
+}
+
 .menu .button__secondary {
     min-height: 5rem;
 }
@@ -265,6 +270,39 @@ h2 {
     color: var(--main-color);
     font-weight: 700;
     font-size: 6rem;
+}
+
+.dots {
+    width: 8rem;
+}
+
+.dots figure {
+    width: 100%;
+}
+
+.fade {
+    position: absolute;
+}
+
+.fade-blue {
+    width: 60rem;
+    height: 60rem;
+    border-radius: 100rem;
+    box-shadow: 0px 0px 10rem 1rem var(--main-color);
+    position: relative;
+    opacity: 0.5;
+}
+
+.fade-blue::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 100rem;
+    background-color: var(--main-color);
+    opacity: 0.5;
 }
 
 /* HERO  */
@@ -307,6 +345,11 @@ h2 {
     padding: var(--padding);
     margin-top: 10rem;
     margin-bottom: 20rem;
+}
+
+#us .dots {
+    margin: var(--center);
+    margin-bottom: 5rem;
 }
 
 #us .container {
@@ -469,6 +512,14 @@ h2 {
     padding-bottom: 20rem;
 }
 
+#auxiliares .fade {
+    right: -15rem;
+    z-index: -1;
+    opacity: 0.3;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 #auxiliares::after {
     content: "";
     width: 35rem;
@@ -597,6 +648,12 @@ h2 {
 
 #services h2 {
     font-weight: 600;
+}
+
+#services .dots {
+    margin-left: auto;
+    margin-right: 25%;
+    margin-top: 1rem;
 }
 
 #services .container {
@@ -1035,6 +1092,12 @@ footer .bottom img {
 
 /* FOOTER  */
 
+@media screen and (max-width: 840px) {
+    :root {
+        --width: calc(100% - 4rem);
+        --padding: 0rem 2rem;
+    }
+}
 
 @media screen and (max-width: 769px) {
 
