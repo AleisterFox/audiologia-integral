@@ -958,6 +958,7 @@ form .button:hover {
 #location .right {
     flex-basis: 50rem;
     flex-grow: 1;
+    display: none;
 }
 
 #location .left {
@@ -974,6 +975,7 @@ form .button:hover {
     height: 14rem;
     padding: 2rem 4rem;
     margin: 2rem 0;
+    cursor: pointer;
 }
 
 .location i {

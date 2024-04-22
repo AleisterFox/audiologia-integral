@@ -19,7 +19,7 @@
       <li><a href="contacto.php" class="links">Contacto</a>
         <div class="links">
           <a href="tel: 563 419 86 15" target="_blank"><i class="fas fa-phone"></i> 753 5377825</a>
-          <a href="mailto: apoyosauditivos@gmail.com" target="_blank"><i class="fas fa-envelope"></i>apoyosauditivos@gmail.com</a>
+          <a href="mailto: apoyosauditivos@gmail.com" target="_blank"><i class="fas fa-envelope"></i>contacto@audiologiaintegral.com.mx</a>
         </div>
       </li>
     </ul>

@@ -58,9 +58,9 @@
                     <figure><img src="img/cic.png" alt=""></figure>
                 </div>
                 <div class="right">
-                    <h2>Audífono BTE</h2>
-                    <p>(Behind the ear)</p>
-                    <p>Este auxiliar auditivo cuenta con tecnología de Inteligencia Artificial se ubica detrás del pabellón auditivo. Los sonidos son transmitidos al tímpano por medio de un tubo conectado a un molde fabricado a medida para cada paciente.</p>
+                    <h2>Audífono CIC</h2>
+                    <p>(Completly in Canal)</p>
+                    <p>Auxiliar Auditivo fabricado a medida de cada persona y casi invisible ya que su colocación dentro del conducto auditivo permite ocultar o disimular totalmente el auxiliar en el oído del paciente.</p>
                 </div>
             </div>
 

@@ -85,8 +85,12 @@
           </div>
         </div>
 
-        <div class="right">
+        <div class="right mapa">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3795.386702135115!2d-102.2016532250512!3d17.960737083027517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x84315c65a2bc23f9%3A0x692f07f8b30a4e99!2sMariano%20Matamoros%20158%2C%20Centro%2C%2060950%20Cdad.%20L%C3%A1zaro%20C%C3%A1rdenas%2C%20Mich.!5e0!3m2!1ses-419!2smx!4v1712268342018!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+
+        <div class="right mapa">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3802.2142385968177!2d-101.56149612138833!3d17.64000934020758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8434771724eda415%3A0xd24bc176b9fb8b1f!2sNicol%C3%A1s%20Bravo%2027%2C%20Centro%2C%2040890%20Zihuatanejo%2C%20Gro.!5e0!3m2!1ses-419!2smx!4v1713810771951!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
       </div>

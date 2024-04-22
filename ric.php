@@ -58,9 +58,9 @@
                 <figure><img src="img/ric.png" alt=""></figure>
             </div>
             <div class="right">
-                <h2>Audífono BTE</h2>
-                <p>(Behind the ear)</p>
-                <p>Este auxiliar auditivo cuenta con tecnología de Inteligencia Artificial se ubica detrás del pabellón auditivo. Los sonidos son transmitidos al tímpano por medio de un tubo conectado a un molde fabricado a medida para cada paciente.</p>
+                <h2>Audífono RIC</h2>
+                <p>(Receiver in canal)</p>
+                <p>El auxiliar con receptor en el canal cuenta con tecnología de Inteligencia Artificial es pequeño, perfecto para pacientes que inician en el uso de auxiliares además de ser recargable .</p>
             </div>
         </div>
 
