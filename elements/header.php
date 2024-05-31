@@ -14,8 +14,8 @@
       <li><a href="index.php#services">Servicios</a></li>
       <li><a href="contacto.php">Contacto</a></li>
       <li>
-        <a href="https://www.facebook.com/apoyosauditivosintegrales" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-        <a href="https://www.instagram.com/audiologiaintegrallzc?igsh=MWRmYzVvOHN5ZHNhNg==" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.facebook.com/apoyosauditivosintegrales" target="_blank"><i class="fa-brands fa-facebook"></i>&nbsp;</a>
+        <a href="https://www.instagram.com/audiologiaintegrallzc?igsh=MWRmYzVvOHN5ZHNhNg==" target="_blank"><i class="fa-brands fa-instagram"></i>&nbsp;</a>
       </li>
     </ul>
     <a><i class="fa-solid fa-bars menu__button"></i></a>

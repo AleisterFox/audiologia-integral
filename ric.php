@@ -4,8 +4,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Molcajete" />
+  <meta name="description" content="En Audiología Integral LZC, ofrecemos tecnología avanzada en auxiliares auditivos, estudios audiológicos completos y moldes a medida para mejorar su audición." />
 
-  <?php include 'elements/estilos.php'?>
+  <meta name="Keywords" content="Audiología, auxiliares auditivos, pérdida auditiva, audiometría, timpanometría, logoaudiometría, programación de auxiliares auditivos, moldes auditivos, laboratorio de moldes, tecnología auditiva, estudios audiológicos, salud auditiva, médico audiólogo, consulta auditiva, audífonos personalizados." />
+
+  <meta name="robots" content="all" />
+  <meta property="og:title" content="Audiologia Integral LZC - Receiver In Canal" />
+  <meta property="og:description" content="En Audiología Integral LZC, ofrecemos tecnología avanzada en auxiliares auditivos, estudios audiológicos completos y moldes a medida para mejorar su audición." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://audiologiaintegral.com.mx/ric.php" />
+  <meta property="og:image" content="../img/icono.png" />
+  <meta property="og:image:width" content="300" />
+  <meta property="og:image:height" content="300" />
+  <meta property="og:site_name" content="Audiologia Integral LZC" />
+  <meta name="msapplication-TileColor" content="rgb(16, 48, 55)" />
+  <meta name="theme-color" content="rgb(16, 48, 55)" />
+  <link rel="canonical" href="https://audiologiaintegral.com.mx/ric.php">
+
+  <?php include 'elements/estilos.php' ?>
 
   <link rel="stylesheet" href="css/loader.css">
 
@@ -13,7 +30,7 @@
   <script>
     new WOW().init();
   </script>
-  <title>Audiologia Integral LZC</title>
+  <title>Audiologia Integral LZC - Receiver In Canal</title>
 </head>
 
 <body>
@@ -38,7 +55,7 @@
   </div>
 
   <div class="whatsapp">
-    <a href="https://wa.link/f2spvi" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://wa.link/f2spvi" target="_blank"><i class="fab fa-whatsapp"></i>&nbsp;</a>
   </div>
 
   <?php include 'elements/header.php' ?>
@@ -46,22 +63,22 @@
   <main>
 
     <section id="product">
-        <div class="info">
-            <div class="left">
-                <figure><img src="img/ric.png" alt=""></figure>
-            </div>
-            <div class="right">
-                <h2>Audífono RIC</h2>
-                <p>(Receiver in canal)</p>
-                <p>El auxiliar con receptor en el canal cuenta con tecnología de Inteligencia Artificial es pequeño, perfecto para pacientes que inician en el uso de auxiliares además de ser recargable .</p>
-            </div>
+      <div class="info">
+        <div class="left">
+          <figure><img src="img/ric.png" alt=""></figure>
         </div>
+        <div class="right">
+          <h1>Audífono RIC</h1>
+          <p>(Receiver in canal)</p>
+          <p>El auxiliar con receptor en el canal cuenta con tecnología de Inteligencia Artificial es pequeño, perfecto para pacientes que inician en el uso de auxiliares además de ser recargable .</p>
+        </div>
+      </div>
 
-        <div class="gallery">
-            <figure><img src="img/ric1.jpg" alt=""></figure>
-            <figure><img src="img/ric2.jpg" alt=""></figure>
-            <figure><img src="img/ric3.png" alt=""></figure>
-        </div>
+      <div class="gallery">
+        <figure><img src="img/ric1.jpg" alt=""></figure>
+        <figure><img src="img/ric2.jpg" alt=""></figure>
+        <figure><img src="img/ric3.png" alt=""></figure>
+      </div>
 
     </section>
 
@@ -71,22 +88,22 @@
         <a href="bte.php">
           <div class="auxiliar">
             <figure><img src="img/bte.png" alt=""></figure>
-            <p>Audífono BTE 
-              (Behind the hear)</p>
+            <p>Audífono BTE
+              (Behind the ear)</p>
           </div>
         </a>
         <a href="ric.php">
           <div class="auxiliar">
             <figure><img src="img/ric.png" alt=""></figure>
-            <p>Audífono RIC 
+            <p>Audífono RIC
               (Receiver in canal)</p>
           </div>
         </a>
         <a href="cic.php">
           <div class="auxiliar">
             <figure><img src="img/cic.png" alt=""></figure>
-            <p>Audífono CIC 
-              (Completly in Canal)</p>
+            <p>Audífono CIC
+              (Completely in Canal)</p>
           </div>
         </a>
       </div>

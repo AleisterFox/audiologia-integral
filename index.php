@@ -4,8 +4,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Molcajete" />
+  <meta name="description" content="En Audiología Integral LZC, ofrecemos tecnología avanzada en auxiliares auditivos, estudios audiológicos completos y moldes a medida para mejorar su audición." />
 
-  <?php include 'elements/estilos.php'?>
+  <meta name="Keywords" content="Audiología, auxiliares auditivos, pérdida auditiva, audiometría, timpanometría, logoaudiometría, programación de auxiliares auditivos, moldes auditivos, laboratorio de moldes, tecnología auditiva, estudios audiológicos, salud auditiva, médico audiólogo, consulta auditiva, audífonos personalizados." />
+
+  <meta name="robots" content="all" />
+  <meta property="og:title" content="Audiologia Integral LZC" />
+  <meta property="og:description" content="En Audiología Integral LZC, ofrecemos tecnología avanzada en auxiliares auditivos, estudios audiológicos completos y moldes a medida para mejorar su audición." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://audiologiaintegral.com.mx/" />
+  <meta property="og:image" content="../img/icono.png" />
+  <meta property="og:image:width" content="300" />
+  <meta property="og:image:height" content="300" />
+  <meta property="og:site_name" content="Audiologia Integral LZC" />
+  <meta name="msapplication-TileColor" content="rgb(16, 48, 55)" />
+  <meta name="theme-color" content="rgb(16, 48, 55)" />
+  <link rel="canonical" href="https://audiologiaintegral.com.mx/">
+
+  <?php include 'elements/estilos.php' ?>
 
   <link rel="stylesheet" href="css/loader.css">
 
@@ -19,7 +36,7 @@
 <body>
 
   <div class="whatsapp">
-    <a href="https://wa.link/f2spvi" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://wa.link/f2spvi" target="_blank"><i class="fab fa-whatsapp"></i>&nbsp;</a>
   </div>
 
   <div class="loader__screen" id="loader">
@@ -67,7 +84,7 @@
           <div class="auxiliar">
             <figure><img src="img/bte.png" alt=""></figure>
             <p>Audífono BTE
-              (Behind the hear)</p>
+              (Behind the ear)</p>
           </div>
         </a>
         <a href="ric.php">
@@ -81,12 +98,9 @@
           <div class="auxiliar">
             <figure><img src="img/cic.png" alt=""></figure>
             <p>Audífono CIC
-              (Completly in Canal)</p>
+              (Completely in Canal)</p>
           </div>
         </a>
-      </div>
-      <div class="fade">
-        <div class="fade-blue"></div>
       </div>
     </section>
 

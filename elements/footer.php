@@ -26,8 +26,8 @@
   </div>
   <div class="middle">
     <div class="socials">
-      <a href="https://www.facebook.com/apoyosauditivosintegrales" target="_blank"><i class="fab fa-facebook"></i></a>
-      <a href="https://www.instagram.com/audiologiaintegrallzc?igsh=MWRmYzVvOHN5ZHNhNg==" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.facebook.com/apoyosauditivosintegrales" target="_blank"><i class="fab fa-facebook"></i>&nbsp;</a>
+      <a href="https://www.instagram.com/audiologiaintegrallzc?igsh=MWRmYzVvOHN5ZHNhNg==" target="_blank"><i class="fab fa-instagram"></i>&nbsp;</a>
     </div>
   </div>
   <div class="bottom">

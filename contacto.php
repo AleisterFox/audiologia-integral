@@ -4,16 +4,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  
-  <link href="https://cdn.jsdelivr.net/gh/eliyantosarage/font-awesome-pro@main/fontawesome-pro-6.5.1-web/css/all.min.css" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css" />
-  <link rel="stylesheet" href="css/animate.css" />
-  <link rel="shortcut icon" href="img/icono.png" type="image/x-icon" media="(prefers-color-scheme: light)" />
-  <link rel="shortcut icon" href="img/icono.png" type="image/x-icon" media="(prefers-color-scheme: dark)" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800,900" rel="stylesheet" />
-  <link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900" rel="stylesheet" />
+  <meta name="author" content="Molcajete" />
+  <meta name="description" content="En Audiología Integral LZC, ofrecemos tecnología avanzada en auxiliares auditivos, estudios audiológicos completos y moldes a medida para mejorar su audición." />
+
+  <meta name="Keywords" content="Audiología, auxiliares auditivos, pérdida auditiva, audiometría, timpanometría, logoaudiometría, programación de auxiliares auditivos, moldes auditivos, laboratorio de moldes, tecnología auditiva, estudios audiológicos, salud auditiva, médico audiólogo, consulta auditiva, audífonos personalizados." />
+
+  <meta name="robots" content="all" />
+  <meta property="og:title" content="Audiologia Integral LZC - Contact" />
+  <meta property="og:description" content="En Audiología Integral LZC, ofrecemos tecnología avanzada en auxiliares auditivos, estudios audiológicos completos y moldes a medida para mejorar su audición." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://audiologiaintegral.com.mx/contact.php" />
+  <meta property="og:image" content="../img/icono.png" />
+  <meta property="og:image:width" content="300" />
+  <meta property="og:image:height" content="300" />
+  <meta property="og:site_name" content="Audiologia Integral LZC" />
+  <meta name="msapplication-TileColor" content="rgb(16, 48, 55)" />
+  <meta name="theme-color" content="rgb(16, 48, 55)" />
+  <link rel="canonical" href="https://audiologiaintegral.com.mx/contact.php">
+
+  <?php include 'elements/estilos.php' ?>
 
   <link rel="stylesheet" href="css/loader.css">
 
@@ -21,15 +30,15 @@
   <script>
     new WOW().init();
   </script>
-  <title>Audiologia Integral LZC</title>
+  <title>Audiologia Integral LZC - Contact</title>
 </head>
 
 <body>
 
   <div class="whatsapp">
-    <a href="https://wa.link/f2spvi" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://wa.link/f2spvi" target="_blank"><i class="fab fa-whatsapp"></i>&nbsp;</a>
   </div>
-
+  
   <div class="loader__screen" id="loader">
     <div id="wifi-loader">
       <svg class="circle-outer" viewBox="0 0 86 86">
@@ -57,7 +66,7 @@
     <section id="contact">
       <div class="container">
         <div class="left">
-          <h2>Contáctanos</h2>
+          <h1>Contáctanos</h1>
           <p>Descubre los últimos avances en rehabilitación auditiva y recupera tu calidad de vida.</p>
         </div>
         <div class="right">

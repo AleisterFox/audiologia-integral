@@ -272,6 +272,8 @@ h2 {
     font-size: 6rem;
 }
 
+
+
 .dots {
     width: 8rem;
 }
@@ -713,6 +715,12 @@ h2 {
     margin-bottom: 10rem;
 }
 
+#product h1 {
+    color: var(--main-color);
+    font-weight: 700;
+    font-size: 6rem;
+}
+
 #product .info {
     display: flex;
     flex-wrap: wrap;
@@ -833,7 +841,10 @@ h2 {
     margin-bottom: 10rem;
 }
 
-#contact h2 {
+#contact h1, #contact h2 {
+    color: var(--main-color);
+    font-weight: 700;
+    font-size: 6rem;
     margin-bottom: 6rem;
 }
 
